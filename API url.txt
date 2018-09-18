@@ -1,0 +1,47 @@
+Get all:	http://localhost:53168/api
+	
+Get by id=4:	http://localhost:53168/api/get/4
+
+Post        :	http://localhost:53168/api/post
+
+		parameter product type
+		{
+ 		   "name" : 'C',
+ 		   "NSX": null,
+   		   "describe": null,
+   		   "image1": null,
+   		   "image2": null,
+  		   "image3": null,
+  		   "status": null,
+  		   "price": null,
+  		   "unit": null
+		}
+
+Delete (HttpPut): http://localhost:53168/api/testAPI   
+		{
+ 		    "id": 2
+		}
+
+Modify 		
+		{
+      "id": 6,
+   
+ 			   "name": "C",
+      
+ 			 "NSX": null,
+   
+   			  "describe": "not thing in here",
+   
+   			  "image1": null,
+  
+    			  "image2": null,
+ 
+     			  "image3": null,
+
+      			  "status": true,
+ 
+      			 "price": null,
+
+      			  "unit": null
+}
+		}

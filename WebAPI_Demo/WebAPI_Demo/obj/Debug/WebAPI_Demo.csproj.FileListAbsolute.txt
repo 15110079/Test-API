@@ -1,0 +1,416 @@
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\obj\Debug\WebAPI_Demo.csprojAssemblyReference.cache
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\obj\Debug\WebAPI_Demo.csproj.CoreCompileInputs.cache
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\ApplicationInsights.config
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\WebAPI_Demo.dll.config
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\WebAPI_Demo.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\WebAPI_Demo.pdb
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\csc.exe
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\csc.exe.config
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\csc.rsp
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\csi.exe
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\csi.exe.config
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\csi.rsp
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.AppContext.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Console.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.IO.Compression.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.Claims.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.ValueTuple.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\vbc.exe
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\vbc.exe.config
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\vbc.rsp
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\VBCSCompiler.exe
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Antlr3.Runtime.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\DataModel.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\EntityFramework.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\EntityFramework.SqlServer.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.Web.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Newtonsoft.Json.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Net.Http.Formatting.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Helpers.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Http.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Http.WebHost.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Mvc.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Optimization.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Razor.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.WebPages.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.WebPages.Razor.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\WebGrease.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\DataModel.pdb
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\DataModel.dll.config
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\EntityFramework.xml
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\EntityFramework.SqlServer.xml
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Newtonsoft.Json.xml
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Net.Http.Formatting.xml
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Helpers.xml
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Http.xml
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Http.WebHost.xml
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Mvc.xml
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Optimization.xml
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Razor.xml
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.WebPages.xml
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.WebPages.Razor.xml
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Antlr3.Runtime.pdb
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.Web.xml
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\obj\Debug\WebAPI_Demo.csproj.CopyComplete
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\obj\Debug\WebAPI_Demo.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\WebAPI_Demo\obj\Debug\WebAPI_Demo.pdb
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\ApplicationInsights.config
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\WebAPI_Demo.dll.config
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\WebAPI_Demo.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\WebAPI_Demo.pdb
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\csc.exe
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\csc.exe.config
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\csc.rsp
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\csi.exe
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\csi.exe.config
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\csi.rsp
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.AppContext.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Console.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.IO.Compression.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.Claims.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.ValueTuple.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\vbc.exe
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\vbc.exe.config
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\vbc.rsp
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\VBCSCompiler.exe
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Antlr3.Runtime.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\DataModel.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\EntityFramework.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\EntityFramework.SqlServer.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.Web.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Newtonsoft.Json.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Net.Http.Formatting.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Helpers.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Http.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Http.WebHost.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Mvc.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Optimization.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Razor.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.WebPages.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.WebPages.Razor.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\WebGrease.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\DataModel.pdb
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\DataModel.dll.config
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\EntityFramework.xml
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\EntityFramework.SqlServer.xml
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Newtonsoft.Json.xml
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Net.Http.Formatting.xml
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Helpers.xml
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Http.xml
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Http.WebHost.xml
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Mvc.xml
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Optimization.xml
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Razor.xml
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.WebPages.xml
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Web.WebPages.Razor.xml
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Antlr3.Runtime.pdb
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.Web.xml
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\obj\Debug\WebAPI_Demo.csprojAssemblyReference.cache
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\obj\Debug\WebAPI_Demo.csproj.CoreCompileInputs.cache
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\obj\Debug\WebAPI_Demo.csproj.CopyComplete
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\obj\Debug\WebAPI_Demo.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\WebAPI_Demo\obj\Debug\WebAPI_Demo.pdb
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\ApplicationInsights.config
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\WebAPI_Demo.dll.config
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\WebAPI_Demo.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\WebAPI_Demo.pdb
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\csc.exe
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\csc.exe.config
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\csc.rsp
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\csi.exe
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\csi.exe.config
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\csi.rsp
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.Managed.Core.targets
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.AppContext.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Collections.Immutable.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Console.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.IO.Compression.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.IO.FileSystem.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.IO.Pipes.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Reflection.Metadata.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.AccessControl.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.Claims.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.Principal.Windows.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.ValueTuple.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Xml.XmlDocument.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Xml.XPath.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\vbc.exe
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\vbc.exe.config
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\vbc.rsp
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\VBCSCompiler.exe
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\VBCSCompiler.exe.config
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Antlr3.Runtime.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\DataModel.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\EntityFramework.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\EntityFramework.SqlServer.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.Agent.Intercept.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.DependencyCollector.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.Web.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.WindowsServer.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.ApplicationInsights.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.Web.Infrastructure.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Newtonsoft.Json.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Diagnostics.DiagnosticSource.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Net.Http.Formatting.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Helpers.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Http.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Http.WebHost.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Mvc.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Optimization.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Razor.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.WebPages.Deployment.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.WebPages.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.WebPages.Razor.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\WebGrease.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\DataModel.pdb
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\DataModel.dll.config
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\EntityFramework.xml
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\EntityFramework.SqlServer.xml
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Newtonsoft.Json.xml
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Net.Http.Formatting.xml
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Helpers.xml
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Http.xml
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Http.WebHost.xml
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Mvc.xml
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Optimization.xml
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Razor.xml
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.WebPages.xml
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.WebPages.Deployment.xml
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.WebPages.Razor.xml
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Antlr3.Runtime.pdb
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Diagnostics.DiagnosticSource.xml
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.DependencyCollector.xml
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.WindowsServer.xml
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.Web.xml
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\obj\Debug\WebAPI_Demo.csprojAssemblyReference.cache
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\obj\Debug\WebAPI_Demo.csproj.CoreCompileInputs.cache
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\obj\Debug\WebAPI_Demo.csproj.CopyComplete
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\obj\Debug\WebAPI_Demo.dll
+E:\merged_partition_content\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\obj\Debug\WebAPI_Demo.pdb
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\ApplicationInsights.config
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\WebAPI_Demo.dll.config
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\WebAPI_Demo.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\WebAPI_Demo.pdb
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\csc.exe
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\csc.exe.config
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\csc.rsp
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\csi.exe
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\csi.exe.config
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\csi.rsp
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.AppContext.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Collections.Immutable.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Console.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.IO.Compression.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.IO.FileSystem.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.IO.Pipes.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Reflection.Metadata.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.AccessControl.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.Claims.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.ValueTuple.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Xml.XPath.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\vbc.exe
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\vbc.exe.config
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\vbc.rsp
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\VBCSCompiler.exe
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\roslyn\VBCSCompiler.exe.config
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Antlr3.Runtime.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\DataModel.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\EntityFramework.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\EntityFramework.SqlServer.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.DependencyCollector.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.Web.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.WindowsServer.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.ApplicationInsights.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.Web.Infrastructure.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Newtonsoft.Json.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Net.Http.Formatting.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Helpers.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Http.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Http.WebHost.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Mvc.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Optimization.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Razor.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.WebPages.Deployment.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.WebPages.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.WebPages.Razor.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\WebGrease.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\DataModel.pdb
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\DataModel.dll.config
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\EntityFramework.xml
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\EntityFramework.SqlServer.xml
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Newtonsoft.Json.xml
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Net.Http.Formatting.xml
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Helpers.xml
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Http.xml
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Http.WebHost.xml
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Mvc.xml
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Optimization.xml
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.Razor.xml
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.WebPages.xml
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.WebPages.Deployment.xml
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Web.WebPages.Razor.xml
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Antlr3.Runtime.pdb
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.DependencyCollector.xml
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.WindowsServer.xml
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.AI.Web.xml
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\obj\Debug\WebAPI_Demo.csprojAssemblyReference.cache
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\obj\Debug\WebAPI_Demo.csproj.CoreCompileInputs.cache
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\obj\Debug\WebAPI_Demo.csproj.CopyComplete
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\obj\Debug\WebAPI_Demo.dll
+E:\Saiban\Restful API\WebAPI_Demo\WebAPI_Demo\obj\Debug\WebAPI_Demo.pdb

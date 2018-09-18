@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dataModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="dataEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="products" EntityType="dataModel.product" />
+  </EntityContainer>
+  <EntityType Name="product">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="NSX" Type="DateTime" Precision="3" />
+    <Property Name="describe" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="image1" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="image2" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="image3" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <Property Name="status" Type="Boolean" />
+    <Property Name="price" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="unit" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+  </EntityType>
+</Schema>

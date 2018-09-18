@@ -1,0 +1,72 @@
+﻿
+@{
+    ViewBag.Title = "View";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div ng-app="demo2" class="w3-card-2 w3-margin">
+
+    <div ng-controller="control" class="w3-container">
+        <div name="search">
+            <p>
+            <p>Search: <input type="text" name="keyFilter" ng-model="keyFilter"> </p>
+            </p>
+
+        </div>
+        <table class="w3-table w3-bordered w3-striped position">
+            <tr>
+                <th>Number</th>
+                <th>Name</th>
+                <th>Age</th>
+                <th>Phone</th>
+                <th>Email</th>
+                <th>Edit</th>
+                <th>Delete</th>
+            </tr>
+            <tr ng-repeat="i in listInfos | filter: keyFilter">
+                <td>{{$index+1}}</td>
+                <td>{{i.name}}</td>
+                <td>{{i.age}}</td>
+                <td>{{i.phone}}</td>
+                <td>{{i.email}}</td>
+                <td><button class="w3-btn w3-ripple" type="button" name="editMember" ng-click="openForm(i.id)">&#9998 Edit</button></td>
+                <td><button class="w3-btn w3-ripple" type="button" name="deleteMenber" ng-click="deleteMember(i.id)"> &#10008 Remove </button></td>
+            </tr>
+        </table>
+        <button class="w3-btn w3-green w3-ripple btn-position" type="submit" name="displayForm" ng-click="openForm(null)">Add Member</button>
+
+        <form name="form" ng-hide="hideform">
+            <input type="hidden" name="id" ng-model="id">
+            <Label>Name:</Label>
+            <p>
+                <input class="w3-input w3-border" name="input" ng-model="newname" placeholder="Your Name" required>
+                <span style="color:red" ng-show="form.input.$error.required && form.input.$touched"> Name is required</span>
+            </p>
+
+            <Label>Age:</Label>
+            <p>
+                <input class="w3-input w3-border" name="inputAge" ng-model="newage" placeholder="Your Age" required>
+                <span style="color:red" ng-show="form.input.$error.required && form.input.$touched"> Name is required</span>
+            </p>
+
+            <label>Phone Number:</label>
+            <p>
+                <input class="w3-input w3-border" name="inputphone" ng-model="newphone" placeholder="Phone Number" required>
+                <span style="color:red" ng-show="form.inputphone.$error.number">Phone is invalid</span>
+            </p>
+
+            <Label>Email</Label>
+            <p>
+                <input class="w3-input w3-border" type="email" name="inputemail" ng-model="newemail" placeholder="Email" required>
+                <span style="color:red" ng-show="form.inputemail.$error.email ">Email is invalid </span>
+                <span style="color:red" ng-show="form.inputemail.$error.required && form.inputemail.$touched"> Email is required</span>
+            </p>
+
+        </form>
+
+        <button class="w3-btn w3-green w3-ripple btn-position" type="submit" ng-click="editMember(id)" ng-disabled="form.name.$error || form.name.$error || form.phone.$invalid">Save</button>
+    </div>
+
+
+</div>
+

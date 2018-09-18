@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_Demo", "WebAPI_Demo\WebAPI_Demo.csproj", "{1B19A78A-5353-4C87-A8B6-79887DA7A52C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModel", "DataModel\DataModel.csproj", "{C5C00F3A-5215-4E45-A805-C55C75D60668}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B19A78A-5353-4C87-A8B6-79887DA7A52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B19A78A-5353-4C87-A8B6-79887DA7A52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B19A78A-5353-4C87-A8B6-79887DA7A52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B19A78A-5353-4C87-A8B6-79887DA7A52C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5C00F3A-5215-4E45-A805-C55C75D60668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C00F3A-5215-4E45-A805-C55C75D60668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C00F3A-5215-4E45-A805-C55C75D60668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C00F3A-5215-4E45-A805-C55C75D60668}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {638E1E33-C744-4B06-AD4E-DB6F36F6C00A}
+	EndGlobalSection
+EndGlobal

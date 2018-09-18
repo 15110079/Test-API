@@ -1,0 +1,35 @@
+C:\Users\MinhHK\Desktop\WebAPI_Demo\DataModel\bin\Debug\DataModel.dll.config
+C:\Users\MinhHK\Desktop\WebAPI_Demo\DataModel\bin\Debug\DataModel.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\DataModel\bin\Debug\DataModel.pdb
+C:\Users\MinhHK\Desktop\WebAPI_Demo\DataModel\bin\Debug\EntityFramework.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\DataModel\bin\Debug\EntityFramework.xml
+C:\Users\MinhHK\Desktop\WebAPI_Demo\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MinhHK\Desktop\WebAPI_Demo\DataModel\obj\Debug\DataModel.csprojAssemblyReference.cache
+C:\Users\MinhHK\Desktop\WebAPI_Demo\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\MinhHK\Desktop\WebAPI_Demo\DataModel\obj\Debug\DataModel.csproj.CopyComplete
+C:\Users\MinhHK\Desktop\WebAPI_Demo\DataModel\obj\Debug\DataModel.dll
+C:\Users\MinhHK\Desktop\WebAPI_Demo\DataModel\obj\Debug\DataModel.pdb
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\DataModel\bin\Debug\DataModel.dll.config
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\DataModel\bin\Debug\DataModel.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\DataModel\bin\Debug\DataModel.pdb
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\DataModel\bin\Debug\EntityFramework.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\DataModel\bin\Debug\EntityFramework.xml
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\DataModel\obj\Debug\DataModel.csprojAssemblyReference.cache
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\DataModel\obj\Debug\DataModel.csproj.CopyComplete
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\DataModel\obj\Debug\DataModel.dll
+C:\Users\minhh\OneDrive\Desktop\WebAPI_Demo\DataModel\obj\Debug\DataModel.pdb
+E:\Saiban\Restful API\WebAPI_Demo\DataModel\bin\Debug\DataModel.dll.config
+E:\Saiban\Restful API\WebAPI_Demo\DataModel\bin\Debug\DataModel.dll
+E:\Saiban\Restful API\WebAPI_Demo\DataModel\bin\Debug\DataModel.pdb
+E:\Saiban\Restful API\WebAPI_Demo\DataModel\bin\Debug\EntityFramework.dll
+E:\Saiban\Restful API\WebAPI_Demo\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\Saiban\Restful API\WebAPI_Demo\DataModel\bin\Debug\EntityFramework.xml
+E:\Saiban\Restful API\WebAPI_Demo\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\Saiban\Restful API\WebAPI_Demo\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+E:\Saiban\Restful API\WebAPI_Demo\DataModel\obj\Debug\DataModel.csproj.CopyComplete
+E:\Saiban\Restful API\WebAPI_Demo\DataModel\obj\Debug\DataModel.dll
+E:\Saiban\Restful API\WebAPI_Demo\DataModel\obj\Debug\DataModel.pdb
