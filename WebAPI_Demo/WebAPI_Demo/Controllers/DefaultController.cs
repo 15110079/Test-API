@@ -6,12 +6,11 @@ using System.Web.Mvc;
 
 namespace WebAPI_Demo.Controllers
 {
-    public class DemoController : Controller
+    public class DefaultController : Controller
     {
-        // GET: Demo
+        // GET: Default
         public ActionResult Index()
         {
-            var i = 0;
             return View();
         }
     }
