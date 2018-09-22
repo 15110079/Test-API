@@ -11,6 +11,7 @@ namespace WebAPI_Demo.Controllers
         // GET: Default
         public ActionResult Index()
         {
+            var kminh = 2;
             return View();
         }
     }
