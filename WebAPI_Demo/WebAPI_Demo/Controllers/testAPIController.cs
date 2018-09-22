@@ -38,10 +38,10 @@ namespace WebAPI_Demo.Controllers
             {
                 return da.products.FirstOrDefault(c => c.id == id && c.status==true);
             }
-            //using (dataEntities da = new dataEntities())
-            //{
-            //    return da.products.FirstOrDefault(c => c.id == id && c.status == true);
-            //}
+            using (dataEntities da = new dataEntities())
+            {
+                return da.products.FirstOrDefault(c => c.id == id && c.status == true);
+            }
         }
         [HttpPost]
         [Route("api/post")]

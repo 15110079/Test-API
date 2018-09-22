@@ -11,9 +11,7 @@ namespace WebAPI_Demo.Controllers
         // GET: Demo
         public ActionResult Index()
         {
-            var i = 0;
-            var j = 3;
-     
+              
             return View();
         }
     }
