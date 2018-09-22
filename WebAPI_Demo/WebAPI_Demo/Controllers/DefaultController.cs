@@ -13,5 +13,10 @@ namespace WebAPI_Demo.Controllers.NewFolder1
         {
             return View();
         }
+        // GET: Default
+        public ActionResult Indegx()
+        {
+            return View();
+        }
     }
 }
