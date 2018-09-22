@@ -6,7 +6,7 @@ Post        :	http://localhost:53168/api/post
 
 		parameter product type
 		{
- 		   "name" : 'C',
+ 		   "name" : 'Cc',
  		   "NSX": null,
    		   "describe": null,
    		   "image1": null,
