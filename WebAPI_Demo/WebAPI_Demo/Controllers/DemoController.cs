@@ -13,10 +13,7 @@ namespace WebAPI_Demo.Controllers
         {
             var i = 0;
             var j = 3;
-            var gi = 0;
-            var jg = 3;
-            var gsi = 0;
-            var sdjg = 3;
+     
             return View();
         }
     }
