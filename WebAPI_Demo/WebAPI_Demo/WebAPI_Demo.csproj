@@ -190,7 +190,8 @@
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\DemoController.cs" />
     <Compile Include="Controllers\DefaultController.cs" />
-    <Compile Include="Controllers\NewFolder1\HomeController.cs" />
+    <Compile Include="Controllers\Root1controller.cs" />
+    <Compile Include="Controllers\Root2Controller.cs" />
     <Compile Include="Controllers\testAPIController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Global.asax.cs">
@@ -261,6 +262,8 @@
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
     <Folder Include="Views\Default\" />
+    <Folder Include="Views\Root1controller\" />
+    <Folder Include="Views\Root2\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
